@@ -1,0 +1,3 @@
+[submodule "RULEngine"]
+	path = RULEngine
+	url = git@github.com:robocupulaval/RULEngine.git
